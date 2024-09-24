@@ -1,0 +1,7 @@
+venv
+env
+.env
+__pycache__
+node_modules
+site-packages
+db.sqlite3
